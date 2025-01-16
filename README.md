@@ -1,5 +1,6 @@
 # Updated Employee Management System in Java
-
+a short video showing the results:
+https://github.com/user-attachments/assets/1efbd0f2-0d5a-4bd4-addc-b9dfdbc48b5a
 ## Description
 This is an **updated version** of the **Employee Management System** built in **Java**. This update enhances the system by adding new features and improving the way employee data is managed. It allows you to:
 
